@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_google_genai
+langchain_chroma
+streamlit
+bs4
+python-dotenv
+tiktoken
+pypdf
+langchain-pinecone
